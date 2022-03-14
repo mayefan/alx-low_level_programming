@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 
 /**
@@ -9,38 +8,8 @@
  * Return: Return 0 (Without warning)
  */
 
-
-
-
-
 int main(void)
-
 {
-
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
-
-=======
-#include <stdio.h>                                                                                                          
-                                                                                                                            
-/**                                                                                                                         
- * main - print to std output "with proper grammar, but the outcome                                                         
- *       is a piece of art"                                                                                                 
- *                                                                                                                          
- * Use printf                                                                                                               
- * Return: Return 0 (Without warning)                                                                                       
- */                                                                                                                         
-                                                                                                                            
-                                                                                                                            
-                                                                                                                            
-                                                                                                                            
-                                                                                                                            
-int main(void)                                                                                                              
-                                                                                                                            
-{                                                                                                                           
-                                                                                                                            
-        printf("with proper grammar, but the outcome is a piece of art,\n");                                                
-        return (0);                                                                                                         
-                                                                                                                            
->>>>>>> af485211e697d0dbb594974f456727683a199d76
 }
