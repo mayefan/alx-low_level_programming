@@ -9,8 +9,13 @@
  */
 int main(void)
 {
+<<<<<<< HEAD
 	int n;
 
+=======
+	
+	int n;	
+>>>>>>> d7abbd95f3a92895fe0d160dff6ae3a7d587dbc8
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	printf("Last digit of %d is %d ", n, n % 10);
